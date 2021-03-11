@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\ex1\\ex1.csproj": {}
+    "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\selectiontaskex1\\ex1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\ex1\\ex1.csproj": {
+    "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\selectiontaskex1\\ex1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\ex1\\ex1.csproj",
+        "projectUniqueName": "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\selectiontaskex1\\ex1.csproj",
         "projectName": "ex1",
-        "projectPath": "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\ex1\\ex1.csproj",
+        "projectPath": "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\selectiontaskex1\\ex1.csproj",
         "packagesPath": "C:\\Users\\adamd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\ex1\\obj\\",
+        "outputPath": "C:\\Users\\adamd\\OneDrive - Swinburne University\\Programming\\IntroProg2021\\selectiontaskex1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adamd\\AppData\\Roaming\\NuGet\\NuGet.Config"
